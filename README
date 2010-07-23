@@ -1,1 +1,11 @@
-All you need is currently in the python script. You need to edit at least one variable, so that the program knows the name of the CSV input file. The script also includes copyright and contact information as well as usage and options parameters.
+BRIEF DESCRIPTION:
+This software consists of a python script which converts epMotion commands in comma-seperated values (CSV) file format to epMotion's native DWS file format (resembles INI format). The script was developed for our setup at Aarhus University using Eppendorf epMotion 5075 VAC+TMX automated pipetting system and may not be suitable for other setups.
+
+REQUIREMENTS:
+This script requires Python 3.0 or above to run. See http://www.python.org/.
+
+HOW-TO-USE:
+Place an input file with the name CSVinput.csv in the same directory as the script and initiate the script. If Python is properly installed, you should be able to run the DWSfromCSV.py script directly from the terminal/prompt or simply by double-clicking the .py file.
+
+For further documentation please review the script itself. Here you will also find copyright and contact information.
+
